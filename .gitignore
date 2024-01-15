@@ -1,0 +1,3 @@
+# ignore macos or windows specific files
+.DS_Store
+Thumbs.db

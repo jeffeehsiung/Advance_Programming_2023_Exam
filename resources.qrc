@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>glider.txt</file>
+        <file>im1.txt</file>
+    </qresource>
+</RCC>
